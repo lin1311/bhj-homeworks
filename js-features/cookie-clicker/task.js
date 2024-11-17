@@ -8,6 +8,6 @@ cookieImg.onclick = function() {
   if (counter % 2 == 0) { 
     cookieImg.width = '250'; 
   } else{
-    cookieImg.width = '202';
+    cookieImg.width = '200';
   } 
 }
